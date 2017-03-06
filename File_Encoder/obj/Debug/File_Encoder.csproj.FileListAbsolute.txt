@@ -1,0 +1,8 @@
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\bin\Debug\File_Encoder.exe
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\bin\Debug\File_Encoder.pdb
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.Form1.resources
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.Properties.Resources.resources
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.csproj.GenerateResource.Cache
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.exe
+C:\Users\Marcus\Desktop\Project\File_Encoder\File_Encoder\obj\Debug\File_Encoder.pdb
